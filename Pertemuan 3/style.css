@@ -1,0 +1,26 @@
+body{
+    height: 200vh;
+}
+.container{
+    padding: 3%;
+    text-align: center;
+    align-items: center;
+    align-items: center;
+    justify-content: center;
+}
+
+#title-card{
+    padding: 5%;
+    background-color: whitesmoke;
+    border-radius: 12px;
+}
+
+#window-width-card{
+    width: 100%;
+}
+
+#scroll-badge{
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+}
