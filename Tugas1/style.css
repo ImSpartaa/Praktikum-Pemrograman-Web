@@ -3,6 +3,13 @@
     margin: auto;
     align-content: center;
 }
+
+#datamhs{
+  padding: 20px;
+  text-align: center;
+  font-size: 24;
+}
+
 #judul {
   padding: 20px;
   text-align: center;
@@ -12,7 +19,25 @@
   text-align: center;
 }
 
-#formnama {
-  margin: 20px;
-  text-align: center;
+#navbar {
+  padding: 10px;
+  margin: 10px 10px 10px 20px;
+}
+
+.lihattambahdata {
+  padding: 10px;
+  margin: 10px;
+  align-content: center;
+}
+
+.gender {
+  padding: 10px;
+  margin: 10px;
+  align-content: center;
+}
+
+#form-label {
+  padding: 10px;
+  margin: 10px;
+  align-content: center;
 }
