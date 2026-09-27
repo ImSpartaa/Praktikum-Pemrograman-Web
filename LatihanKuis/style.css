@@ -1,0 +1,40 @@
+body{
+    background-color: whitesmoke;
+}
+
+.container{
+    height: 100vh;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#login-card {
+    width: 60%;
+    background-color: white;
+    border-radius: 12px;
+    padding: 5%;
+    align-items: center;
+}
+
+#login-title{
+    text-align: center;
+}
+        
+#login-content{
+    display: flex;
+    margin-top: 5%;
+}
+
+#login-form {
+    width: 60%;
+}
+        
+#login-button{
+    width: 100%;
+}
+
+#login-title h4{
+    font-size: 14px;
+    color: grey;
+}
